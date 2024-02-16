@@ -1,2 +1,4 @@
 # my-first-binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/juanvesga/my-first-binder.git/HEAD)
+Follow the link below
+[![Binder](https://notebooks.gesis.org/binder/jupyter/user/juanvesga-my-first-binder-aizmj2jp/lab)
+
